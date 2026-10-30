@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/sasanoya",
  "yomi": "さざなみのやしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集（抄）",
+  "era": "文政12年（1829）9月跋",
+  "author": "清水浜臣（1776〜1824）",
+  "desc": "村田春海に学んだ江戸派の国学者清水浜臣の家集の抄。没後に門人が歌を集めて板に彫った。容安軒主人の漢文序と清水光房の跋がある。"
+ },
  "editions": [
   {
    "pid": "993386",
